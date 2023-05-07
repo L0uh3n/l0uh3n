@@ -6,7 +6,7 @@
   [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/l0uh3n)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luiz.h3n/)
   
-  Apaixonado por tecnologia, formado em Informática para Internet e, atualmente, estudando Análise e Desenvolvimento de Sistemas.
+  Apaixonado por tecnologia, formado em Informática para Internet pelo SENAI e, atualmente, estudando Análise e Desenvolvimento de Sistemas pelo IFRN.
   
 </div>
 
