@@ -9,11 +9,9 @@
 </div>
 
 <div align="center">
-  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=L0uh3n&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L0uh3n&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
-
-</div> 
+  <a href="#"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=L0uh3n&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"></a>
+  <a href="#"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L0uh3n&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"></a>
+</div>
 
 <h2 align="center">
   Princiapais tecnologias:
@@ -26,7 +24,6 @@
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  
 </div>
 
 <h2 align="center">
@@ -38,7 +35,6 @@
   <img align="center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  
 </div>
 
 <div align="center">
