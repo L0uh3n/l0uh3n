@@ -3,7 +3,7 @@
 <br>
 <div>
   
-- 📚 I'm currently studying Analysis and Development at IFRN.
+- 📚 I'm currently studying Analysis and Systems Development at IFRN.
 - 🌱 I'm currently learning React Native.
 - 😃 More about me: [l0uh3n.github.io/meu_portfolio/](https://l0uh3n.github.io/meu_portfolio/)
   
